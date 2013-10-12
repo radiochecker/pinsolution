@@ -21,13 +21,18 @@
 font-family: 'ponsirounded_slabregular', Georgia, geserif;
 }
 
-.liuheader { 
+.headimage { 
 	background: #0f4abd url('../images/slides_01.jpg') bottom center no-repeat;
 	min-height:453px;
 	padding-top:200px;
 }
+
+body.work .headimage{
+	background: #0f3ab2 url('../images/Slides2.jpg') bottom center no-repeat;
+}
+
 .pinimage{
-	background: #0f4abd url('../images/slides2.jpg') bottom center no-repeat;
+	background: #0f3ab2 url('../images/slides2.jpg') bottom center no-repeat;
 	height:877px;
 }
 
