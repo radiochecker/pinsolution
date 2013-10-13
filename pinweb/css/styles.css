@@ -30,12 +30,30 @@ font-family: 'ponsirounded_slabregular', Georgia, geserif;
 body.work .headimage{
 	background: #0f3ab2 url('../images/Slides2.jpg') bottom center no-repeat;
 }
+body.company .headimage{
+	background: #0f3ab2 url('../images/Slides2.jpg') bottom center no-repeat;
+}
 
 .pinimage{
 	background: #0f3ab2 url('../images/slides2.jpg') bottom center no-repeat;
 	height:877px;
 }
+.ourclient{
+	background: #0f3ab2 url('../images/slides2.jpg') bottom center no-repeat;
+	height:877px;
+}
+.ourteam{
+	background: #0f3ab2 url('../images/slides2.jpg') bottom center no-repeat;
+	height:877px;
+}
+.pinimage p{
+	color:#fff;
+}
 
+body.company .jumbotron{
+	padding-top:10px;
+	padding-bottom:10px;
+}
 .fullspan{
 	width:100% !important;
 	max-width:100% !important;
